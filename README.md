@@ -13,3 +13,7 @@ Most of my repositories are study or personnal projects.
  # ⌨ Coding
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sholde)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🏠 Personal
+
+I'm currently develop my typing speed. ⌨
