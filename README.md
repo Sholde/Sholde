@@ -5,7 +5,7 @@
  
  # 📈 Github
 
-Most of my repositories are study projects or personnal projects.
+Most of my repositories are study or personnal projects.
 
 [![Sholde's github stats](https://github-readme-stats.vercel.app/api?username=Sholde&show_icons=true)](https://github.com/Sholde)
  
