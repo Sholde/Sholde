@@ -4,7 +4,9 @@
  - I'm currently in 1st year in Master HPC
  
  # 📈 Github
- 
+
+Most of my repositories are study projects or personnal projects.
+
 [![Sholde's github stats](https://github-readme-stats.vercel.app/api?username=Sholde&show_icons=true)](https://github.com/Sholde)
  
  # ⌨ Coding
