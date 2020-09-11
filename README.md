@@ -5,7 +5,7 @@
  
  # Github
  
-[![Sholde's github stats](https://github-readme-stats.vercel.app/api?username=Sholde&show_icons=true&theme=chartreuse-dark)](https://github.com/Sholde)
+[![Sholde's github stats](https://github-readme-stats.vercel.app/api?username=Sholde&show_icons=true)](https://github.com/Sholde)
  
  # ⌨ Coding
 
