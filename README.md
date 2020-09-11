@@ -1,7 +1,8 @@
  # 🎓 Study
  
- - Graduate of a Computer Science Degree
- - I'm currently in 1st year in Master HPC
+ - 🎓 Graduate of a Computer Science Degree
+ 
+ - 🌱 I'm currently in 1st year in Master HPC
  
  # 📈 Github
 
