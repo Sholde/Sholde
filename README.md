@@ -2,7 +2,7 @@
  
  - 🎓 Graduate of a Computer Science Degree
  
- - 🌱 I'm currently in 1st year in Master HPC
+ - 🌱 I'm currently in 1st year in Master HPCS
  
  # 📈 Github
 
