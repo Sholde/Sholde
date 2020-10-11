@@ -2,11 +2,11 @@
 
 You land on my Universe.
 
- - 🎓 Computer Science Graduate
+ - &#127891; Computer Science Graduate
  
- - 🌱 I'm currently make my 1st year in ![Master HPCS](http://www.chps.uvsq.fr)
+ - &#127793; I'm currently make my 1st year in ![Master HPCS](http://www.chps.uvsq.fr)
 
- - 🎓 I will work on ![Verificarlo](https://github.com/verificarlo/verificarlo) (mostly on MPI and openMP support)
+ - &#129520; I will work on ![Verificarlo](https://github.com/verificarlo/verificarlo) (mostly on MPI and openMP support)
 
 ### Favorite Langages
 
