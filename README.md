@@ -1,19 +1,13 @@
- # 🎓 Study
+# Hi there ~ &#128125;
+
+You land on my Universe.
+
+ - 🎓 Computer Science Graduate
  
- - 🎓 Graduate of a Computer Science Degree
- 
- - 🌱 I'm currently in 1st year in Master HPCS
- 
- # 📈 Github
+ - 🌱 I'm currently make my 1st year in ![Master HPCS](www.chps.uvsq.fr)
 
-Most of my repositories are study or personnal projects.
+ - 🎓 I will work on ![Verificarlo](https://github.com/verificarlo/verificarlo) (mostly on MPI and openMP support)
 
-[![Sholde's github stats](https://github-readme-stats.vercel.app/api?username=Sholde&show_icons=true)](https://github.com/Sholde)
- 
- # ⌨ Coding
+# Favorite Langages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sholde)](https://github.com/anuraghazra/github-readme-stats)
-
-# 🏠 Personal
-
-I'm currently develop my typing speed. ⌨
+  - C / C++
