@@ -2,7 +2,7 @@
 
 You land on my planet.
 
- - &#127891; Computer Science Graduate
+ - &#127891; I'm Graduate in Computer Science
  
  - &#127793; I'm currently make my 1st year in [Master HPCS](http://www.chps.uvsq.fr/)
 
