@@ -1,6 +1,6 @@
 ### Hi there ~ &#128125;
 
-You land on my Universe.
+You land on my planet.
 
  - &#127891; Computer Science Graduate
  
