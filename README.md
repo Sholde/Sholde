@@ -12,4 +12,4 @@
 
   - C / C++ (system, parallel, ...)
   - Bash (scripting)
-  - orgmode &#129412;
+  - Org Mode &#129412;
