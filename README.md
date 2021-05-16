@@ -14,8 +14,9 @@
   
 ### Interests
 
+ - C programming
  - Compiler anatomy
- - Benchmarking
+ - Profiling / Benchmarking
  - CLI
     
 ### Deal breaker
