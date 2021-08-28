@@ -8,17 +8,9 @@
 
 ### Languages
 
-#### System/Parallel
-
-  - C/C++
-
-#### Scripting
-
-  - Bash, Python
- 
-#### Text edition
-
-  - Org Mode &#129412;, Markdown, LaTeX
+  - C/C++ (system, parallel, ...)
+  - Bash, Python (scripting)
+  - Org Mode &#129412;, Markdown, LaTeX (text edition)
 
 ### Interests
 
