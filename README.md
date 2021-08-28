@@ -10,7 +10,7 @@
 
   - C/C++ (system, parallel, ...)
   - Bash, Python (scripting)
-  - Org Mode &#129412;, Markdown, LaTeX (text edition)
+  - Org Mode &#129412;, Markdown, LaTeX (text editing)
 
 ### Interests
 
