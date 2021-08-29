@@ -5,7 +5,7 @@
   - &#129520; Worked on
   [Verificarlo](https://github.com/verificarlo/verificarlo) for the 1rst year master
   project (mostly on vectorization support)
-  - &#128039; [Arch Linux](https://archlinux.org/) user
+  - &#128039; [Arch Linux](https://archlinux.org/) and [Emacs](https://www.gnu.org/software/emacs/) user
 
 ### Languages
 
