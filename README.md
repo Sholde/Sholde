@@ -20,3 +20,7 @@
   - Profiling / Benchmarking
   - HPC
   - CLI
+
+### Contact
+
+  - [Discord:](https://discord.com/) Sholde#0886
