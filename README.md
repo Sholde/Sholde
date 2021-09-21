@@ -18,5 +18,4 @@
   - C programming
   - Compiler anatomy
   - Profiling / Benchmarking
-  - HPC
-  - CLI
+  - Parallel Computing
