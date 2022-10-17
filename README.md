@@ -1,21 +1,18 @@
-### Hi there ~
+## Hi there ~
 
-  - &#127891; Graduate in [Computer Science](https://www.uvsq.fr/licence-informatique)
-  - &#127793; Currently in my 2nd year in [Master HPCS](http://www.chps.uvsq.fr/)
-  - &#129520; Worked on
-  [Verificarlo](https://github.com/verificarlo/verificarlo) for the 1rst year master
-  project (mostly on vectorization support)
-  - &#128039; [Arch Linux](https://archlinux.org/) and [Emacs](https://www.gnu.org/software/emacs/) user
+### About Me
 
-### Languages
-
-  - C/C++ (system, parallel, ...)
-  - Bash, Python (scripting)
-  - Org Mode &#129412;, Markdown, LaTeX (text editing)
+  - &#127891; Graduate in High Performance Computing
+  - &#128039; Emacs user
 
 ### Interests
 
-  - C programming
-  - Compiler anatomy
+  - Low level programming (C, assembler, intrinsics)
   - Profiling / Benchmarking
-  - Parallel Computing
+  - Parallel Computing (MPI, OpenMP, Pthread)
+
+### Languages
+
+  - C / C++ (efficient program)
+  - Assembler / Intrinsics (x86: SSE, AVX, AVX512; aarch64: NEON, SVE)
+  - Bash, Python (scripting)
